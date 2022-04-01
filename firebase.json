@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "site": "mailgenerator",
+    "site": "tiktokdownloader",
     "public": "public",
     "ignore": [
       "firebase.json",
