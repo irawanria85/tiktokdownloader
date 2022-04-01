@@ -1,0 +1,3 @@
+baseURL = "https://mailgenerator.web.app"
+languageCode = "en-us"
+title = "Mail Generator"
